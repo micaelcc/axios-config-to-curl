@@ -6,7 +6,7 @@
     "license": "MIT",
     "description": "A configuration converter for Axios to cURL",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "node --test"
     },
     "author": "Micael Lima"
 }
