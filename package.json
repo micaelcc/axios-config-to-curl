@@ -1,12 +1,25 @@
 {
-    "name": "axios-config-to-curl",
+    "name": "@micaelcc/axios-config-to-curl",
     "version": "0.0.1",
     "main": "src/index.js",
     "type": "module",
     "license": "MIT",
     "description": "A configuration converter for Axios to cURL",
     "scripts": {
-        "test": "node --test"
+      "test": "node --test"
     },
-    "author": "Micael Lima"
-}
+    "author": "Micael Lima",
+    "keywords": [
+      "axios",
+      "curl"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/micaelcc/axios-config-to-curl.git"
+    },
+    "bugs": {
+      "url": "https://github.com/micaelcc/axios-config-to-curl/issues"
+    },
+    "homepage": "https://github.com/micaelcc/axios-config-to-curl#readme"
+  }
+  
