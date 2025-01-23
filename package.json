@@ -1,5 +1,5 @@
 {
-    "name": "@micaelcc/axios-config-to-curl",
+    "name": "axios-config-to-curl",
     "version": "0.0.1",
     "main": "src/index.js",
     "type": "module",
